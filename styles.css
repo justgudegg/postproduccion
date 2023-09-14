@@ -51,5 +51,12 @@ li{
     font-size: 24px;
 }
 
-
+.responsive{
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
