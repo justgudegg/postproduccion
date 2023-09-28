@@ -3,20 +3,22 @@ body{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
-/*
+
 h1{
     text-align: center;
-    font-size: 36px;
+    /*font-size: 36px;
     margin: 4px;
+    */
 }
 
 h2{
     color: #777;
-    font-size: 28px;
+    /*font-size: 28px;
     margin: 8px;
     padding: 16px;
+    */
 }
-
+/*
 h3{
     color: white;
     font-size: 24px;
@@ -50,6 +52,10 @@ li{
     text-decoration: none;
     font-size: 24px;
 }
+*/
+
+/*
+image responsive
 */
 .responsive{
     width: 100%;
